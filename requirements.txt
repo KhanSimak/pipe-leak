@@ -1,0 +1,11 @@
+# PHASE 1 — minimal deps
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+pydantic==2.7.0
+sqlalchemy[asyncio]==2.0.30
+asyncpg==0.29.0
+networkx==3.3
+numpy==1.26.4
+python-dotenv==1.0.1
+celery==5.4.0
+redis==5.0.7
